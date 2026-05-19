@@ -1,5 +1,5 @@
 {
-  "fetched_at_utc": "2026-05-18T22:48:52Z",
+  "fetched_at_utc": "2026-05-19T20:09:03Z",
   "summary": {
     "total": 41,
     "ok": 0,
@@ -13,7 +13,7 @@
       "url": "https://www.zumper.com/address/425-1st-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 16910,
+      "elapsed_ms": 4805,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/425-1st-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -22,7 +22,7 @@
       "url": "https://www.zumper.com/address/333-main-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 16912,
+      "elapsed_ms": 4912,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/333-main-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -31,7 +31,7 @@
       "url": "https://www.zumper.com/address/201-folsom-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 16912,
+      "elapsed_ms": 4806,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/201-folsom-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -40,7 +40,7 @@
       "url": "https://www.zumper.com/address/280-spear-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 16908,
+      "elapsed_ms": 4797,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/280-spear-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -49,7 +49,7 @@
       "url": "https://www.zumper.com/address/488-folsom-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 16909,
+      "elapsed_ms": 4908,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/488-folsom-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -58,7 +58,7 @@
       "url": "https://www.zumper.com/address/401-harrison-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 16910,
+      "elapsed_ms": 4847,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/401-harrison-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -67,7 +67,7 @@
       "url": "https://www.zumper.com/address/219-brannan-st-san-francisco-ca-94107-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 16910,
+      "elapsed_ms": 4911,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/219-brannan-st-san-francisco-ca-94107-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -76,7 +76,7 @@
       "url": "https://www.zumper.com/address/200-brannan-st-san-francisco-ca-94107-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 16912,
+      "elapsed_ms": 4804,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/200-brannan-st-san-francisco-ca-94107-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -85,7 +85,7 @@
       "url": "https://www.zumper.com/address/631-folsom-st-san-francisco-ca-94107-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 7413,
+      "elapsed_ms": 12805,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/631-folsom-st-san-francisco-ca-94107-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -94,7 +94,7 @@
       "url": "https://www.zumper.com/address/333-1st-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 7413,
+      "elapsed_ms": 12800,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/333-1st-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -103,7 +103,7 @@
       "url": "https://www.zumper.com/address/765-market-st-san-francisco-ca-94103-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 7412,
+      "elapsed_ms": 12799,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/765-market-st-san-francisco-ca-94103-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -112,7 +112,7 @@
       "url": "https://www.zumper.com/address/188-minna-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 7423,
+      "elapsed_ms": 12800,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/188-minna-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -121,7 +121,7 @@
       "url": "https://www.zumper.com/address/855-folsom-st-san-francisco-ca-94107-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 7412,
+      "elapsed_ms": 12732,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/855-folsom-st-san-francisco-ca-94107-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -130,7 +130,7 @@
       "url": "https://www.zumper.com/address/325-china-basin-st-san-francisco-ca-94158-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 7410,
+      "elapsed_ms": 12700,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/325-china-basin-st-san-francisco-ca-94158-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -139,7 +139,7 @@
       "url": "https://www.zumper.com/address/325-berry-st-san-francisco-ca-94158-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 7410,
+      "elapsed_ms": 12694,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/325-berry-st-san-francisco-ca-94158-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -148,7 +148,7 @@
       "url": "https://www.zumper.com/address/1000-3rd-st-san-francisco-ca-94158-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 7383,
+      "elapsed_ms": 12690,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/1000-3rd-st-san-francisco-ca-94158-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -157,7 +157,7 @@
       "url": "https://www.zumper.com/address/250-king-st-san-francisco-ca-94107-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 5218,
+      "elapsed_ms": 12617,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/250-king-st-san-francisco-ca-94107-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -166,7 +166,7 @@
       "url": "https://www.zumper.com/address/555-fulton-st-san-francisco-ca-94102-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 5210,
+      "elapsed_ms": 12617,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/555-fulton-st-san-francisco-ca-94102-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -175,7 +175,7 @@
       "url": "https://www.zumper.com/address/450-hayes-st-san-francisco-ca-94102-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 5206,
+      "elapsed_ms": 12643,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/450-hayes-st-san-francisco-ca-94102-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -184,7 +184,7 @@
       "url": "https://www.zumper.com/apartment-buildings/p961246/635-fulton-street-hayes-valley-san-francisco-ca",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 5207,
+      "elapsed_ms": 12615,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /apartment-buildings/p961246/635-fulton-street-hayes-valley-san-francisco-ca (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -193,7 +193,7 @@
       "url": "https://www.zumper.com/address/815-tennessee-st-san-francisco-ca-94107-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 5204,
+      "elapsed_ms": 12640,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/815-tennessee-st-san-francisco-ca-94107-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -202,7 +202,7 @@
       "url": "https://www.relatedrentals.com/apartment-rentals/san-francisco/potrero-hill/mason-mariposa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 5206,
+      "elapsed_ms": 12580,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.relatedrentals.com', port=443): Max retries exceeded with url: /apartment-rentals/san-francisco/potrero-hill/mason-mariposa (Caused by NameResolutionError(\"HTTPSConnection(host='www.relatedrentals.com', port=443): Failed to resolve 'www.relatedrentals.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -211,7 +211,7 @@
       "url": "https://www.udr.com/san-francisco-bay-area-apartments/san-francisco/388-beale/apartments-pricing/",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 5205,
+      "elapsed_ms": 12615,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.udr.com', port=443): Max retries exceeded with url: /san-francisco-bay-area-apartments/san-francisco/388-beale/apartments-pricing/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.udr.com', port=443): Failed to resolve 'www.udr.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -220,7 +220,7 @@
       "url": "https://www.rentjasper.com/units/",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 5183,
+      "elapsed_ms": 12591,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.rentjasper.com', port=443): Max retries exceeded with url: /units/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.rentjasper.com', port=443): Failed to resolve 'www.rentjasper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -229,7 +229,7 @@
       "url": "https://rent.brookfieldproperties.com/property/bayside-village/floorplans/",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 27246,
+      "elapsed_ms": 5052,
       "error": "ConnectionError: HTTPSConnectionPool(host='rent.brookfieldproperties.com', port=443): Max retries exceeded with url: /property/bayside-village/floorplans/ (Caused by NameResolutionError(\"HTTPSConnection(host='rent.brookfieldproperties.com', port=443): Failed to resolve 'rent.brookfieldproperties.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -238,7 +238,7 @@
       "url": "https://sfbay.craigslist.org/search/sfc/apa?bedrooms=3&max_price=12000&hasPic=1",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 27237,
+      "elapsed_ms": 5041,
       "error": "ConnectionError: HTTPSConnectionPool(host='sfbay.craigslist.org', port=443): Max retries exceeded with url: /search/sfc/apa?bedrooms=3&max_price=12000&hasPic=1 (Caused by NameResolutionError(\"HTTPSConnection(host='sfbay.craigslist.org', port=443): Failed to resolve 'sfbay.craigslist.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -247,7 +247,7 @@
       "url": "https://www.avaloncommunities.com/california/san-francisco-apartments/avalon-dogpatch/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 7720,
+      "elapsed_ms": 7882,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.avaloncommunities.com/california/san-francisco-apartments/avalon-dogpatch/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -256,7 +256,7 @@
       "url": "https://www.avaloncommunities.com/california/san-francisco-apartments/avalon-at-mission-bay/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 8100,
+      "elapsed_ms": 2555,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.avaloncommunities.com/california/san-francisco-apartments/avalon-at-mission-bay/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -265,7 +265,7 @@
       "url": "https://www.theaverysf.com/floorplans",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 12485,
+      "elapsed_ms": 19185,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.theaverysf.com/floorplans\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -274,7 +274,7 @@
       "url": "https://www.moderarinconhill.com/floor-plans",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 12428,
+      "elapsed_ms": 22143,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.moderarinconhill.com/floor-plans\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -283,7 +283,7 @@
       "url": "https://www.oandmsf.com/apartments/ca/san-francisco/floor-plans",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 21329,
+      "elapsed_ms": 10316,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.oandmsf.com/apartments/ca/san-francisco/floor-plans\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -292,7 +292,7 @@
       "url": "https://www.windsorcommunities.com/properties/windsor-at-dogpatch/floorplans/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 11131,
+      "elapsed_ms": 19766,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.windsorcommunities.com/properties/windsor-at-dogpatch/floorplans/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -301,7 +301,7 @@
       "url": "https://www.windsorcommunities.com/properties/mission-bay-by-windsor/floorplans/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 21889,
+      "elapsed_ms": 10300,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.windsorcommunities.com/properties/mission-bay-by-windsor/floorplans/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -310,7 +310,7 @@
       "url": "https://vennonmarket.com/floorplans/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 21259,
+      "elapsed_ms": 25404,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://vennonmarket.com/floorplans/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -319,7 +319,7 @@
       "url": "https://150vanness.com/floorplans/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 12069,
+      "elapsed_ms": 25393,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://150vanness.com/floorplans/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -328,7 +328,7 @@
       "url": "https://www.rentnema.com/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 12421,
+      "elapsed_ms": 25099,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.rentnema.com/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -337,7 +337,7 @@
       "url": "https://www.equityapartments.com/san-francisco-bay/soma/soma-square-apartments",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 25072,
+      "elapsed_ms": 25079,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.equityapartments.com/san-francisco-bay/soma/soma-square-apartments\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -346,7 +346,7 @@
       "url": "https://www.equityapartments.com/san-francisco-bay/soma/the-paramount-apartments",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 12766,
+      "elapsed_ms": 25093,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.equityapartments.com/san-francisco-bay/soma/the-paramount-apartments\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -355,8 +355,8 @@
       "url": "https://www.equityapartments.com/san-francisco/rincon-hill/340-fremont-apartments",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 11163,
-      "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.equityapartments.com/san-francisco/rincon-hill/340-fremont-apartments\", waiting until \"domcontentloaded\"\n",
+      "elapsed_ms": 9899,
+      "error": "Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.equityapartments.com/san-francisco/rincon-hill/340-fremont-apartments\nCall log:\n  - navigating to \"https://www.equityapartments.com/san-francisco/rincon-hill/340-fremont-apartments\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
     {
@@ -364,7 +364,7 @@
       "url": "https://www.equityapartments.com/san-francisco/potrero-hill/potrero-1010-apartments",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 13633,
+      "elapsed_ms": 25080,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.equityapartments.com/san-francisco/potrero-hill/potrero-1010-apartments\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -373,7 +373,7 @@
       "url": "https://www.padmapper.com/apartments/san-francisco-ca?bedrooms=3&maxPrice=12000",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 10542,
+      "elapsed_ms": 25088,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.padmapper.com/apartments/san-francisco-ca?bedrooms=3&maxPrice=12000\", waiting until \"domcontentloaded\"\n",
       "text": ""
     }
