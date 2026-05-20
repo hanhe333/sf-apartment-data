@@ -1,11 +1,11 @@
 {
-  "fetched_at_utc": "2026-05-19T20:09:03Z",
+  "fetched_at_utc": "2026-05-20T19:04:38Z",
   "summary": {
     "total": 41,
-    "ok": 0,
+    "ok": 1,
     "blocked_403": 0,
     "not_found_404": 0,
-    "errored": 41
+    "errored": 40
   },
   "pages": [
     {
@@ -13,7 +13,7 @@
       "url": "https://www.zumper.com/address/425-1st-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 4805,
+      "elapsed_ms": 4820,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/425-1st-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -22,7 +22,7 @@
       "url": "https://www.zumper.com/address/333-main-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 4912,
+      "elapsed_ms": 4819,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/333-main-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -31,7 +31,7 @@
       "url": "https://www.zumper.com/address/201-folsom-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 4806,
+      "elapsed_ms": 4820,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/201-folsom-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -40,7 +40,7 @@
       "url": "https://www.zumper.com/address/280-spear-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 4797,
+      "elapsed_ms": 4822,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/280-spear-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -49,7 +49,7 @@
       "url": "https://www.zumper.com/address/488-folsom-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 4908,
+      "elapsed_ms": 4817,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/488-folsom-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -58,7 +58,7 @@
       "url": "https://www.zumper.com/address/401-harrison-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 4847,
+      "elapsed_ms": 4820,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/401-harrison-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -67,7 +67,7 @@
       "url": "https://www.zumper.com/address/219-brannan-st-san-francisco-ca-94107-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 4911,
+      "elapsed_ms": 4819,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/219-brannan-st-san-francisco-ca-94107-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -76,7 +76,7 @@
       "url": "https://www.zumper.com/address/200-brannan-st-san-francisco-ca-94107-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 4804,
+      "elapsed_ms": 4818,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/200-brannan-st-san-francisco-ca-94107-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -85,7 +85,7 @@
       "url": "https://www.zumper.com/address/631-folsom-st-san-francisco-ca-94107-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12805,
+      "elapsed_ms": 5114,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/631-folsom-st-san-francisco-ca-94107-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -94,7 +94,7 @@
       "url": "https://www.zumper.com/address/333-1st-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12800,
+      "elapsed_ms": 5111,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/333-1st-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -103,7 +103,7 @@
       "url": "https://www.zumper.com/address/765-market-st-san-francisco-ca-94103-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12799,
+      "elapsed_ms": 5112,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/765-market-st-san-francisco-ca-94103-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -112,7 +112,7 @@
       "url": "https://www.zumper.com/address/188-minna-st-san-francisco-ca-94105-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12800,
+      "elapsed_ms": 5111,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/188-minna-st-san-francisco-ca-94105-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -121,7 +121,7 @@
       "url": "https://www.zumper.com/address/855-folsom-st-san-francisco-ca-94107-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12732,
+      "elapsed_ms": 5112,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/855-folsom-st-san-francisco-ca-94107-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -130,7 +130,7 @@
       "url": "https://www.zumper.com/address/325-china-basin-st-san-francisco-ca-94158-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12700,
+      "elapsed_ms": 5111,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/325-china-basin-st-san-francisco-ca-94158-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -139,7 +139,7 @@
       "url": "https://www.zumper.com/address/325-berry-st-san-francisco-ca-94158-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12694,
+      "elapsed_ms": 5111,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/325-berry-st-san-francisco-ca-94158-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -148,7 +148,7 @@
       "url": "https://www.zumper.com/address/1000-3rd-st-san-francisco-ca-94158-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12690,
+      "elapsed_ms": 5109,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/1000-3rd-st-san-francisco-ca-94158-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -157,7 +157,7 @@
       "url": "https://www.zumper.com/address/250-king-st-san-francisco-ca-94107-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12617,
+      "elapsed_ms": 14481,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/250-king-st-san-francisco-ca-94107-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -166,7 +166,7 @@
       "url": "https://www.zumper.com/address/555-fulton-st-san-francisco-ca-94102-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12617,
+      "elapsed_ms": 14478,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/555-fulton-st-san-francisco-ca-94102-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -175,7 +175,7 @@
       "url": "https://www.zumper.com/address/450-hayes-st-san-francisco-ca-94102-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12643,
+      "elapsed_ms": 14481,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/450-hayes-st-san-francisco-ca-94102-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -184,7 +184,7 @@
       "url": "https://www.zumper.com/apartment-buildings/p961246/635-fulton-street-hayes-valley-san-francisco-ca",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12615,
+      "elapsed_ms": 14481,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /apartment-buildings/p961246/635-fulton-street-hayes-valley-san-francisco-ca (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -193,7 +193,7 @@
       "url": "https://www.zumper.com/address/815-tennessee-st-san-francisco-ca-94107-usa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12640,
+      "elapsed_ms": 14481,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.zumper.com', port=443): Max retries exceeded with url: /address/815-tennessee-st-san-francisco-ca-94107-usa (Caused by NameResolutionError(\"HTTPSConnection(host='www.zumper.com', port=443): Failed to resolve 'www.zumper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -202,7 +202,7 @@
       "url": "https://www.relatedrentals.com/apartment-rentals/san-francisco/potrero-hill/mason-mariposa",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12580,
+      "elapsed_ms": 14472,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.relatedrentals.com', port=443): Max retries exceeded with url: /apartment-rentals/san-francisco/potrero-hill/mason-mariposa (Caused by NameResolutionError(\"HTTPSConnection(host='www.relatedrentals.com', port=443): Failed to resolve 'www.relatedrentals.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -211,7 +211,7 @@
       "url": "https://www.udr.com/san-francisco-bay-area-apartments/san-francisco/388-beale/apartments-pricing/",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12615,
+      "elapsed_ms": 14480,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.udr.com', port=443): Max retries exceeded with url: /san-francisco-bay-area-apartments/san-francisco/388-beale/apartments-pricing/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.udr.com', port=443): Failed to resolve 'www.udr.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -220,7 +220,7 @@
       "url": "https://www.rentjasper.com/units/",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 12591,
+      "elapsed_ms": 14479,
       "error": "ConnectionError: HTTPSConnectionPool(host='www.rentjasper.com', port=443): Max retries exceeded with url: /units/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.rentjasper.com', port=443): Failed to resolve 'www.rentjasper.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -229,7 +229,7 @@
       "url": "https://rent.brookfieldproperties.com/property/bayside-village/floorplans/",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 5052,
+      "elapsed_ms": 5244,
       "error": "ConnectionError: HTTPSConnectionPool(host='rent.brookfieldproperties.com', port=443): Max retries exceeded with url: /property/bayside-village/floorplans/ (Caused by NameResolutionError(\"HTTPSConnection(host='rent.brookfieldproperties.com', port=443): Failed to resolve 'rent.brookfieldproperties.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -238,7 +238,7 @@
       "url": "https://sfbay.craigslist.org/search/sfc/apa?bedrooms=3&max_price=12000&hasPic=1",
       "mode": "requests",
       "status": 0,
-      "elapsed_ms": 5041,
+      "elapsed_ms": 5272,
       "error": "ConnectionError: HTTPSConnectionPool(host='sfbay.craigslist.org', port=443): Max retries exceeded with url: /search/sfc/apa?bedrooms=3&max_price=12000&hasPic=1 (Caused by NameResolutionError(\"HTTPSConnection(host='sfbay.craigslist.org', port=443): Failed to resolve 'sfbay.craigslist.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
       "text": ""
     },
@@ -247,7 +247,7 @@
       "url": "https://www.avaloncommunities.com/california/san-francisco-apartments/avalon-dogpatch/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 7882,
+      "elapsed_ms": 7629,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.avaloncommunities.com/california/san-francisco-apartments/avalon-dogpatch/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -256,7 +256,7 @@
       "url": "https://www.avaloncommunities.com/california/san-francisco-apartments/avalon-at-mission-bay/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 2555,
+      "elapsed_ms": 1482,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.avaloncommunities.com/california/san-francisco-apartments/avalon-at-mission-bay/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -265,7 +265,7 @@
       "url": "https://www.theaverysf.com/floorplans",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 19185,
+      "elapsed_ms": 19555,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.theaverysf.com/floorplans\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -274,7 +274,7 @@
       "url": "https://www.moderarinconhill.com/floor-plans",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 22143,
+      "elapsed_ms": 11026,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.moderarinconhill.com/floor-plans\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -283,7 +283,7 @@
       "url": "https://www.oandmsf.com/apartments/ca/san-francisco/floor-plans",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 10316,
+      "elapsed_ms": 14191,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.oandmsf.com/apartments/ca/san-francisco/floor-plans\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -292,7 +292,7 @@
       "url": "https://www.windsorcommunities.com/properties/windsor-at-dogpatch/floorplans/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 19766,
+      "elapsed_ms": 25820,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.windsorcommunities.com/properties/windsor-at-dogpatch/floorplans/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -301,7 +301,7 @@
       "url": "https://www.windsorcommunities.com/properties/mission-bay-by-windsor/floorplans/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 10300,
+      "elapsed_ms": 8516,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.windsorcommunities.com/properties/mission-bay-by-windsor/floorplans/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -310,7 +310,7 @@
       "url": "https://vennonmarket.com/floorplans/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 25404,
+      "elapsed_ms": 26568,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://vennonmarket.com/floorplans/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -319,7 +319,7 @@
       "url": "https://150vanness.com/floorplans/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 25393,
+      "elapsed_ms": 25252,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://150vanness.com/floorplans/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -328,7 +328,7 @@
       "url": "https://www.rentnema.com/",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 25099,
+      "elapsed_ms": 25067,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.rentnema.com/\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -337,7 +337,7 @@
       "url": "https://www.equityapartments.com/san-francisco-bay/soma/soma-square-apartments",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 25079,
+      "elapsed_ms": 25486,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.equityapartments.com/san-francisco-bay/soma/soma-square-apartments\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -346,7 +346,7 @@
       "url": "https://www.equityapartments.com/san-francisco-bay/soma/the-paramount-apartments",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 25093,
+      "elapsed_ms": 25065,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.equityapartments.com/san-francisco-bay/soma/the-paramount-apartments\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -355,8 +355,8 @@
       "url": "https://www.equityapartments.com/san-francisco/rincon-hill/340-fremont-apartments",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 9899,
-      "error": "Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.equityapartments.com/san-francisco/rincon-hill/340-fremont-apartments\nCall log:\n  - navigating to \"https://www.equityapartments.com/san-francisco/rincon-hill/340-fremont-apartments\", waiting until \"domcontentloaded\"\n",
+      "elapsed_ms": 25052,
+      "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.equityapartments.com/san-francisco/rincon-hill/340-fremont-apartments\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
     {
@@ -364,7 +364,7 @@
       "url": "https://www.equityapartments.com/san-francisco/potrero-hill/potrero-1010-apartments",
       "mode": "playwright",
       "status": 0,
-      "elapsed_ms": 25080,
+      "elapsed_ms": 25044,
       "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.equityapartments.com/san-francisco/potrero-hill/potrero-1010-apartments\", waiting until \"domcontentloaded\"\n",
       "text": ""
     },
@@ -372,10 +372,9 @@
       "name": "PadMapper \u00b7 SF 3+BR \u2264$12k",
       "url": "https://www.padmapper.com/apartments/san-francisco-ca?bedrooms=3&maxPrice=12000",
       "mode": "playwright",
-      "status": 0,
-      "elapsed_ms": 25088,
-      "error": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.padmapper.com/apartments/san-francisco-ca?bedrooms=3&maxPrice=12000\", waiting until \"domcontentloaded\"\n",
-      "text": ""
+      "status": 200,
+      "elapsed_ms": 17840,
+      "text": "San Francisco CA Apartments for Rent | PadMapper Use your current location Searches Favorites Post a pad Sign in Show the map Get to know San Francisco 1,061 APARTMENTS 20 NEIGHBORHOODS Rent Trends for Apartments in San Francisco May 2026 Bedroom count San Francisco vs Last Month Studio $2,646 up 5.84% 1 Bedroom $4,000 up 3.90% 2 Bedroom $5,500 up 2.98% 3 Bedroom $6,838 up 14.06% 4 Bedroom $9,350 up 14.72% Median rent as of May 17, 2026 This May, we've analyzed our 1,061 listings in San Francisco to determine the rent trend. We're updating our tables in real time to give you the most up to date San Francisco median apartment rent prices by bedroom count. The median rent for a studio apartment decreased by 0.15% to $2,646, while the median rent for a 1 bedroom apartment increased by 0.13% to $4,000. Cities Near San Francisco Broadmoor Apartments Brisbane Apartments Colma Apartments Daly City Apartments Sausalito Apartments Belvedere Tiburon Apartments Tiburon Apartments South San Francisco Apartments Strawberry Apartments San Bruno Apartments Top Neighborhoods in San Francisco SOMA Apartments South Beach Apartments Civic Center Apartments Downtown Apartments Dogpatch Apartments Hayes Valley Apartments Tenderloin Apartments Mission Apartments Apartment Types in San Francisco Pet Friendly Apartments in San Francisco Cheap Apartments in San Francisco Luxury Apartments in San Francisco Low Income Apartments in San Francisco Move In Special Apartments in San Francisco Utilities Included Apartments in San Francisco No Security Deposit Apartments in San Francisco Short Term Rentals in San Francisco Find Your Dream Apartment for Rent in San Francisco PadMapper has 1,061 condos, houses, and apartments for rent in San Francisco. Specifically, 259 studio apartments, 403 one-bedroom apartments, 318 two-bedroom apartments, 60 three-bedroom apartments are currently available for rent. We have options to filter by price, bedroom count, bathroom count, long-term or short-term, housing type, pet friendly, no broker fee, and you can search for an apartment by custom keywords. Search \u203a California \u203a San Francisco San Francisco CA Apartments for Rent Rent Edit $0 $5,000+ Length Long Term Short Term Bedrooms Studio 1 2 3 4+ Save More Filters Relevance Newest Price: Low to High Price: High to Low 518 Results Featured Verified $3,860\u2013$6,375 Studio\u20132 Bedrooms Apartments \u00b7 SOMA, San Francisco 855 Brannan View all fees 855 Brannan 855 Brannan St is an apartment rental building with 10 floorplans, and studio\u20132 bedrooms units available. It is located in the SOMA neighborhood of San Francisco. It has building amenities including residents lounge, storage, outdoor space, elevator, on-site management, roof deck, package service, garage parking, and fitness center. Cats and dogs are allowed, making it a pet-friendly building. View building Featured Verified $3,680\u2013$5,950 Studio\u20132 Bedrooms Apartments \u00b7 Potrero Hill, San Francisco Potrero 1010 View all fees Potrero 1010 1010 16th St is an apartment rental building with 8 floorplans, and studio\u20132 bedrooms units available. It is located in the Potrero Hill neighborhood of San Francisco. It has building amenities including residents lounge, elevator, on-site management, roof deck, package service, garage parking, and fitness center. Cats and dogs are allowed, making it a pet-friendly building. View building Featured Verified $6,345\u2013$6,529 2 Bedrooms Apartments \u00b7 Potrero Hill, San Francisco One Henry Adams View all fees One Henry Adams 1 Henry Adams St is an apartment rental building with 2 floorplans, and 2 bedrooms units available. It is located in the Potrero Hill neighborhood of San Francisco. It has building amenities including residents lounge, storage, outdoor space, elevator, on-site management, roof deck, controlled access, package service, garage parking, and fitness center. Cats and dogs are allowed, making it a pet-friendly building. View building Verified Online tours $3,020\u2013$18,750 Studio\u20133 Bedrooms Apartments \u00b7 SOMA, San Francisco Blueground San Francisco Blueground San Francisco 149 San Francisco New Montgomery St is an apartment rental building with 60 floorplans, and studio\u20133 bedrooms units available. It is located in the SOMA neighborhood of San Francisco. It has building amenities including outdoor space, fitness center, on-site laundry, swimming pool, residents lounge, ev charging, storage, elevator, roof deck, and garage parking. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $3,931\u2013$4,230 1\u20133 Bedrooms Apartments \u00b7 Visitacion Valley, San Francisco Pacific Place Apartments Pacific Place Apartments 2665 Geneva Ave is an apartment rental building with 19 floorplans, and 1\u20133 bedrooms units available. It is located in the Visitacion Valley neighborhood of San Francisco. It has building amenities including fitness center, package service, controlled access, residents lounge, and elevator. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $3,300\u2013$5,693 Studio\u20132 Bedrooms Apartments \u00b7 Civic Center, San Francisco The Civic View all fees The Civic 101 Polk St is an apartment rental building with 14 floorplans, and studio\u20132 bedrooms units available. It is located in the Civic Center neighborhood of San Francisco. It has building amenities including fitness center, package service, dry cleaning service, roof deck, garage parking, and concierge service. Cats and dogs are allowed, making it a pet-friendly building. View building Verified Online tours $2,000 Studio Apartment \u00b7 Nob Hill, San Francisco Mark Hopkins Rental Condominiums Mark Hopkins Rental Condominiums 1200 Sacramento Street is an apartment rental building with 1 floorplan, and studio units available. It is located in the Nob Hill neighborhood of San Francisco. It has building amenities including outdoor space, on-site laundry, controlled access, elevator, and roof deck. View building Verified Rent special $4,555\u2013$7,695 Studio\u20133 Bedrooms Apartments \u00b7 Dogpatch, San Francisco Avalon Dogpatch View all fees Avalon Dogpatch 800 Indiana St is an apartment rental building with 71 floorplans, and studio\u20133 bedrooms units available. It is located in the Dogpatch neighborhood of San Francisco. It has building amenities including outdoor space, fitness center, package service, residents lounge, and roof deck. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $2,495\u2013$3,045 Studio\u20131 Bedroom Apartments \u00b7 SOMA, San Francisco 1651 Market View all fees 1651 Market 1651 Market St is an apartment rental building with 2 floorplans, and studio\u20131 bedroom units available. It is located in the SOMA neighborhood of San Francisco. It has building amenities including elevator. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $2,895\u2013$3,595 Studio\u20131 Bedroom Apartments \u00b7 Downtown, San Francisco 920 Leavenworth View all fees 920 Leavenworth 920 Leavenworth St is an apartment rental building with 2 floorplans, and studio\u20131 bedroom units available. It is located in the Downtown neighborhood of San Francisco. It has building amenities including elevator. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $2,995\u2013$3,995 1\u20132 Bedrooms Apartments \u00b7 Downtown, San Francisco 990 Geary View all fees 990 Geary 990 Geary St is an apartment rental building with 2 floorplans, and 1\u20132 bedrooms units available. It is located in the Downtown neighborhood of San Francisco. It has building amenities including outdoor space, on-site laundry, and elevator. Cats and dogs are allowed, making it a pet-friendly building. View building Luxury Verified $4,467\u2013$6,907 Studio\u20131 Bedroom Apartments \u00b7 SOMA, San Francisco 500 Folsom View all fees 500 Folsom 500 Folsom St is an apartment rental building with 12 floorplans, and studio\u20131 bedroom units available. It is located in the SOMA neighborhood of San Francisco. It has building amenities including outdoor space, fitness center, controlled access, residents lounge, elevator, leed certified, and concierge service. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $3,655\u2013$6,965 Studio\u20132 Bedrooms Apartments \u00b7 Hayes Valley, San Francisco Avalon Hayes Valley View all fees Avalon Hayes Valley 325 Octavia St is an apartment rental building with 58 floorplans, and studio\u20132 bedrooms units available. It is located in the Hayes Valley neighborhood of San Francisco. It has building amenities including residents lounge, storage, outdoor space, garage parking, and fitness center. View building Verified $4,115\u2013$10,000 Studio\u20133 Bedrooms Apartments \u00b7 SOMA, San Francisco Astella View all fees Astella 975 Bryant St is an apartment rental building with 15 floorplans, and studio\u20133 bedrooms units available. It is located in the SOMA neighborhood of San Francisco. It has building amenities including outdoor space, storage, and package service. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $4,337 1 Bedroom Apartment \u00b7 Inner Sunset, San Francisco Park West View all fees Park West 1201 Funston Ave is an apartment rental building with 1 floorplan, and 1 bedroom units available. It is located in the Inner Sunset neighborhood of San Francisco. It has building amenities including fitness center, on-site laundry, controlled access, swimming pool, and elevator. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $2,877\u2013$4,067 Studio\u20131 Bedroom Apartments \u00b7 Civic Center, San Francisco Fox Plaza View all fees Fox Plaza 1390 Market St Ste 107 is an apartment rental building with 3 floorplans, and studio\u20131 bedroom units available. It is located in the Civic Center neighborhood of San Francisco. It has building amenities including storage, on-site laundry, fitness center, and elevator. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $2,295 Studio Apartment \u00b7 Mission, San Francisco 2385 Folsom View all fees 2385 Folsom 2385 Folsom St is an apartment rental building with 1 floorplan, and studio units available. It is located in the Mission neighborhood of San Francisco. It has building amenities including on-site laundry. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $2,595 Studio Apartment \u00b7 Downtown, San Francisco 825-835 Pine View all fees 825-835 Pine 825 Pine St is an apartment rental building with 1 floorplan, and studio units available. It is located in the Downtown neighborhood of San Francisco. It has building amenities including on-site laundry, and outdoor space. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $4,995 2 Bedrooms Apartment \u00b7 Marina, San Francisco 2955 Van Ness View all fees 2955 Van Ness 2955 Van Ness Ave is an apartment rental building with 1 floorplan, and 2 bedrooms units available. It is located in the Marina neighborhood of San Francisco. It has building amenities including on-site laundry, and garage parking. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $3,295 1 Bedroom Apartment \u00b7 Downtown, San Francisco 1130 Larkin View all fees 1130 Larkin 1130 Larkin St is an apartment rental building with 1 floorplan, and 1 bedroom units available. It is located in the Downtown neighborhood of San Francisco. It has building amenities including on-site laundry, and elevator. Cats and dogs are allowed, making it a pet-friendly building. View building Verified $2,395 1 Bedroom \u00b7 1 Bathroom Apartment \u00b7 Financial District, San Francisco 10 Brooklyn Pl #05 1 Day Ago 10 Brooklyn Pl #05 is a 1 bedroom, 1 bathroom apartment for rent. It is located in the Financial District neighborhood of San Francisco. Cats and dogs are allowed, making it a pet-friendly apartment. View apartment Verified $4,995 2 Bedrooms \u00b7 2 Bathrooms Apartment \u00b7 Haight Ashbury, San Francisco 1340A Haight St 1 Day Ago 1340A Haight St is a 2 bedroom, 2 bathrooms apartment for rent. It is located in the Haight Ashbury neighborhood of San Francisco. Cats and dogs are allowed, making it a pet-friendly apartment. View apartment Verified $4,759\u2013$6,759 1\u20132 Bedrooms Apartments \u00b7 Mission Bay, San Francisco MB360 View all fees MB360 1200 4th St is an apartment rental building with 5 floorplans, and 1\u20132 bedrooms units available. It is located in the Mission Bay neighborhood of San Francisco. It has building amenities including residents lounge, storage, dry cleaning service, swimming pool, outdoor space, leed certified, ev charging, controlled access, and fitness center. Cats and dogs are allowed, making it a pet-friendly building. View building Find more San Francisco apartments on our partner site Zumper. \u00a9PadMapper 2026 - Powered by Zumper \u00b7 About \u00b7 Privacy \u00b7 Notice of Collection \u00b7 Do Not Sell or Share My Personal Information \u00b7 Terms Of Service \u00b7 Fair Housing Rights \u00b7 Sitemap \u00b7 Feedback"
     }
   ]
 }
